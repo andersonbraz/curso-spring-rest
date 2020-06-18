@@ -21,7 +21,7 @@ O video disponibilizado possui nos primeiros 10 minutos os comentários da galer
 ### Para configurar conexão com banco de dados lembrar de definir:
 
 ```
-spring.datasource.url=jdbc:mysql://localhost:osworks?createDatabaseIfNotExist=true&serverTimezone=UTC
+spring.datasource.url=jdbc:mysql://localhost:3306/osworks?createDatabaseIfNotExist=true&serverTimezone=UTC
 spring.datasource.username=<<username>>
 spring.datasource.username=<<password>>
 ```
