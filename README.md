@@ -25,6 +25,18 @@ spring.datasource.username=<<username>>
 spring.datasource.password=<<password>>
 ```
 
+```sql
+create table cliente(
+	id bigint not null auto_increment,
+	nome  varchar(60) not null,
+	email varchar(255) not null,
+	telefone varchar(20) not null,
+	
+	primary key(id)
+	
+);
+```
+
 ## IMPORTANTE
 
 - [Flyway - Version control your database](http://flywaydb.org)
