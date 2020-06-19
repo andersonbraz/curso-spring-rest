@@ -22,7 +22,7 @@ O video disponibilizado possui nos primeiros 10 minutos os comentários da galer
 ```
 spring.datasource.url=jdbc:mysql://localhost:3306/osworks?createDatabaseIfNotExist=true&serverTimezone=UTC
 spring.datasource.username=<<username>>
-spring.datasource.username=<<password>>
+spring.datasource.password=<<password>>
 ```
 
 ## Dia 03 - Técnicas e boas práticas
@@ -34,5 +34,5 @@ O video disponibilizado possui nos primeiros 10 minutos os comentários da galer
 ```
 spring.datasource.url=jdbc:mysql://localhost:3306/osworks?createDatabaseIfNotExist=true&serverTimezone=UTC
 spring.datasource.username=<<username>>
-spring.datasource.username=<<password>>
+spring.datasource.password=<<password>>
 ```
