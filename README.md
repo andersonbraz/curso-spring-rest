@@ -17,7 +17,7 @@ clean package
 
 O video disponibilizado possui nos primeiros 10 minutos os comentários da galera que está fazendo este treinamento e em seguida já passa para a parte de conteúdo exeplicando sobre conexão com banco de dados MySql.
 
-### Para configurar conexão com banco de dados lembrar de definir:
+*Para configurar conexão com banco de dados lembrar de definir:*
 
 ```
 spring.datasource.url=jdbc:mysql://localhost:3306/osworks?createDatabaseIfNotExist=true&serverTimezone=UTC
@@ -29,7 +29,7 @@ spring.datasource.username=<<password>>
 
 O video disponibilizado possui nos primeiros 10 minutos os comentários da galera que está fazendo este treinamento e em seguida já passa para a parte de conteúdo exeplicando sobre conexão com banco de dados MySql.
 
-### Para configurar conexão com banco de dados lembrar de definir:
+*Para configurar conexão com banco de dados lembrar de definir:*
 
 ```
 spring.datasource.url=jdbc:mysql://localhost:3306/osworks?createDatabaseIfNotExist=true&serverTimezone=UTC
