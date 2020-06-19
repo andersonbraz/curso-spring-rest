@@ -43,12 +43,8 @@ create table cliente(
 
 ## Dia 03 - Técnicas e boas práticas
 
-O video disponibilizado possui nos primeiros 10 minutos os comentários da galera que está fazendo este treinamento e em seguida já passa para a parte de conteúdo exeplicando sobre conexão com banco de dados MySql.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
-*Para configurar conexão com banco de dados lembrar de definir:*
+## Dia 04 - Alcançando o próximo nível
 
-```
-spring.datasource.url=jdbc:mysql://localhost:3306/osworks?createDatabaseIfNotExist=true&serverTimezone=UTC
-spring.datasource.username=<<username>>
-spring.datasource.password=<<password>>
-```
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
