@@ -25,6 +25,10 @@ spring.datasource.username=<<username>>
 spring.datasource.password=<<password>>
 ```
 
+## IMPORTANTE
+
+- [Flyway - Version control your database](http://flywaydb.org)
+
 ## Dia 03 - Técnicas e boas práticas
 
 O video disponibilizado possui nos primeiros 10 minutos os comentários da galera que está fazendo este treinamento e em seguida já passa para a parte de conteúdo exeplicando sobre conexão com banco de dados MySql.
