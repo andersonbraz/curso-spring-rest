@@ -57,8 +57,10 @@ Build path specifies execution environment JavaSE-11. There are no JREs installe
 
 In Spring Tool Suite from your project:
 
+```
 1. Right-click on your project
 2. Click Properties
 3. Java build path: Libraries; Remove the "JRE System Library[J2SE 1.4]"
 4. Click Add Library -> JRE System Library
 5. Select the new "Execution Environment" or Workspace default JRE
+```
