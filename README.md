@@ -48,3 +48,17 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 ## Dia 04 - Alcançando o próximo nível
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+# WARNINGS
+
+Build path specifies execution environment JavaSE-11. There are no JREs installed in the workspace that are strictly compatible with this environment.
+
+**Resolve**
+
+In Spring Tool Suite from your project:
+
+1. Right-click on your project
+2. Click Properties
+3. Java build path: Libraries; Remove the "JRE System Library[J2SE 1.4]"
+4. Click Add Library -> JRE System Library
+5. Select the new "Execution Environment" or Workspace default JRE
